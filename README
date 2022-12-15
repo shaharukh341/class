@@ -1,1 +1,3 @@
-Hi This is a test file.
+Hi This is the First activity done in terraform first class
+
+Consider a VPC network in which we have 4 subnets, create the previous with using terraform.
